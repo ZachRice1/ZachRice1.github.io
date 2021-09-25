@@ -1,0 +1,57 @@
+
+h1 {
+    font-family:Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images//Users/zachrice/Projects/New Projects/Codecademy/Dasmoto's Arts & Crafts Project/resources/images/DAC#1.webp#1.webp");
+    background-size:cover;
+    background-position:center;
+    height: 100px
+}
+
+
+
+.brushes h2 {
+  
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+
+a{
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue
+}
+
+.frame h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint h2 {
+
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+h3 {
+    font-family: Helvetica;
+
+}
+
